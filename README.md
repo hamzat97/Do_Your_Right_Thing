@@ -5,8 +5,9 @@ DYRT web application
 ## Tech Tools
 - Python
 - Django
-- Jira REST APIs
+- JIRA REST APIs
 - Web Development Languages
 ## Environment Setup and Installation Requirements
+* Install Python and Django
 ## User Guide
 ## Acknowledgments
