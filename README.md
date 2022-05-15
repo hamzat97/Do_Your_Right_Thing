@@ -13,7 +13,7 @@ DYRT web application
 $pip install django
 ``` 
 - Install mysqlclient (fork of MySQL-python) for MySQL lovers
-```
+```php
 $pip install mysqlclient
 ``` 
 ## User Guide
