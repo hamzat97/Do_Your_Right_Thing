@@ -20,7 +20,7 @@ $pip install mysqlclient
 ```php
 $pip install jira
 ``` 
-- Django project configuration (Database & Mail settings) 
+- Django project configuration (Database & Mail Settings) 
 ## User Guide
 - Open the Django project path in terminal and enter the below two commands:
 ```php
