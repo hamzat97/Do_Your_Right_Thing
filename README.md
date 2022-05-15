@@ -3,6 +3,10 @@ Every manager is looking for a better project management because he needs more t
 ## Summary
 DYRT web application 
 ## Tech Tools
+- Python
+- Django
+- Jira REST APIs
+- Web Development Languages
 ## Environment Setup and Installation Requirements
 ## User Guide
 ## Acknowledgments
