@@ -31,4 +31,5 @@ $python manage.py migrate
 ```php
 $python manage.py runserver
 ```
+- Create your user account ([click here](http://localhost:8000/signup)
 ## Acknowledgments
