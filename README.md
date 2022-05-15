@@ -17,4 +17,10 @@ pip install django
 pip install mysqlclient
 ``` 
 ## User Guide
+- Configure the database
+- Open the Django project path in terminal and enter the below two command:
+```
+python manage.py makemigrations
+python manage.py migrate
+``` 
 ## Acknowledgments
