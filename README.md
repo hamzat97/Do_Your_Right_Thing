@@ -8,6 +8,7 @@ DYRT web application
 - JIRA REST APIs
 - Web Development Languages
 ## Environment Setup and Installation Requirements
-* Install Python and Django
+- Install Python and Django
+- -- hjg
 ## User Guide
 ## Acknowledgments
