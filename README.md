@@ -9,7 +9,7 @@ DYRT web application
 - Web Development Languages
 ## Environment Setup and Installation Requirements
 - Install Python and Django
-```python
+```php
 $pip install django
 ``` 
 - Install mysqlclient (fork of MySQL-python) for MySQL lovers
@@ -19,7 +19,7 @@ $pip install mysqlclient
 ## User Guide
 - Configure the database
 - Open the Django project path in terminal and enter the below two command:
-```
+```php
 $python manage.py makemigrations
 $python manage.py migrate
 ``` 
