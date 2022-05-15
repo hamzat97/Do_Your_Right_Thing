@@ -20,14 +20,13 @@ $pip install mysqlclient
 ```php
 $pip install jira
 ``` 
-## User Guide
 - Django project configuration (Database & Mail settings) 
+## User Guide
 - Open the Django project path in terminal and enter the below two commands:
 ```php
 $python manage.py makemigrations
 $python manage.py migrate
 ``` 
-- Check that the Django project is working correctly 
 - Run the Django web development server
 ```php
 $python manage.py runserver
