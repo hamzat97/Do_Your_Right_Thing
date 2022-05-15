@@ -16,7 +16,7 @@ $pip install django
 ```php
 $pip install mysqlclient
 ``` 
-- Install JIRA library
+- Install JIRA Python library
 ```php
 $pip install jira
 ``` 
