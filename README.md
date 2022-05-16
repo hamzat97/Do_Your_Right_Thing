@@ -33,5 +33,5 @@ $python manage.py runserver
 ```
 - Create your user account ([click here](http://localhost:8000/signup))
 - Check your Gmail inbox and click on the activation link
-- Log in to your account ([click here](http://localhost:8000/signin))
+3. Log in to your account ([click here](http://localhost:8000/signin))
 ## Acknowledgments
