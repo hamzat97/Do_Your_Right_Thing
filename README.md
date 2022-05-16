@@ -4,7 +4,7 @@ Every manager is looking for a better project management because he needs more t
 We all know you and your team work on multiple tasks every day! Now just imagine handling all of that with a pen and paper or even an Excel sheet?
 
 
-<p align="center"><img src="blob/main/lae.gif"></p>
+<p align="center"><img src="https://github.com/hamzat97/Do_Your_Right_Thing/blob/main/Iae.gif"></p>
 
 <p align="center">![](https://github.com/hamzat97/Do_Your_Right_Thing/blob/main/Iae.gif)</p>
 DYRT web application is a great JIRA project management tool that allows users to pull their JIRA issues lists in real time using JIRA REST APIs. The aim behind it is to    
