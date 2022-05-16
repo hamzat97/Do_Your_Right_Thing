@@ -75,9 +75,9 @@ WSGI_APPLICATION = 'DYRT.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',  
-        'NAME': 'MyDatabase',  
-        'USER': 'root',  
-        'PASSWORD': 'Hamza2022',  
+        'NAME': 'Name_Of_Database',  
+        'USER': 'Username',  
+        'PASSWORD': 'Password',  
         'HOST': 'localhost',  
         'PORT': '3306',  
     }
@@ -126,8 +126,8 @@ STATICFILES_DIRS = [
 EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = '587'
-EMAIL_HOST_USER = 'hamzataous733@gmail.com'
-EMAIL_HOST_PASSWORD = 'Hamza20222026'
+EMAIL_HOST_USER = 'sender@gmail.com'
+EMAIL_HOST_PASSWORD = 'password'
 EMAIL_USE_TLS = True
 
 # Default primary key field type
