@@ -44,3 +44,4 @@ $python manage.py runserver
 - Log out from your JIRA account
 - Log in to user account again and access to your JIRA issues list directly     
 ## Acknowledgments
+Special thank to @vadim1 
