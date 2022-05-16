@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  {% load static %}
+  <meta charset="utf-8">
+  <title>DYRT</title>
+  <link rel="icon" type="image/x-icon" href="{% static 'img/icon.png' %}">
+  <link href="{% static 'css/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet" type="text/css">
+  <link href="{% static 'fonts/font-awesome-4.7.0/css/font-awesome.min.css' %}" rel="stylesheet" type="text/css">
+  <link href="{% static 'fonts/iconic/css/material-design-iconic-font.min.css' %}" rel="stylesheet" type="text/css">   
+  <link href="{% static 'animate/animate.css' %}" rel="stylesheet" type="text/css">	
+  <link href="{% static 'css-hamburgers/hamburgers.min.css' %}" rel="stylesheet" type="text/css">
+  <link href="{% static 'animsition/css/animsition.min.css' %}" rel="stylesheet" type="text/css">
+  <link href="{% static 'select/select.min.css' %}" rel="stylesheet" type="text/css">	
+  <link href="{% static 'daterangepicker/daterangepicker.css' %}" rel="stylesheet" type="text/css">
+  <link href="{% static 'css/style5.css' %}" rel="stylesheet" type="text/css">
+  <link href="{% static 'css/style6.css' %}" rel="stylesheet" type="text/css">
+  <link href="{% static 'css/style9.css' %}" rel="stylesheet" type="text/css">
+ </head>
+ <body>	
+  <div class="limiter">
+   <div class="container-login100" style="background-image: url({% static 'img/Background2.png' %});">
+	 <div class="wrap-login100 p-l-55 p-r-55 p-t-45 p-b-30">
+	  <form class="login100-form validate-form" method="post">
+       {% csrf_token %} 
+	   <span class="login100-form-title p-b-49" id="IDFormTitle">Jira Authentification</span>
+	   <div class="wrap-input100 validate-input m-b-23" data-validate="Project name is required">
+	    <span class="label-input100" id="IDLabel">Project</span>
+	    <input class="input100" type="text" name="project" placeholder="Type the project name">
+	    <span class="focus-input100" data-symbol="&#xf206;"></span>
+	   </div>
+	   <div class="wrap-input100 validate-input m-b-23" data-validate="Email is required">
+        <span class="label-input100" id="IDLabel">Email</span>
+        <input class="input100" type="email" name="email" placeholder="Type your email">
+        <span class="focus-input100" data-symbol="&#64;"></span>
+       </div>
+	   <div class="wrap-input100 validate-input" data-validate="Token is required">
+	    <span class="label-input100" id="IDLabel">API Token</span>
+	    <input class="input100" type="password" name="apitoken" placeholder="Type your token">
+	    <span class="focus-input100" data-symbol="&#xf190;"></span>
+	   </div>
+       {% if message %}
+	   <div class="text-right p-t-30 p-b-15">
+	    <p id="IDMsg">{{message}}</p>
+	   </div>	
+       {% else %}
+       <div class="text-right p-t-8 p-b-8"></div>
+       {% endif %}			
+       {% if message %}
+       <div class="container-login100-form-btn">
+       {% else %}
+       <div class="container-login100-form-btn p-t-25">
+       {% endif %}
+	    <div class="wrap-login100-form-btn">
+	 	 <div class="login100-form-bgbtn"></div>
+		 <button class="login100-form-btn">Access</button>
+	    </div>
+	   </div>
+       <div class="flex-col-c p-t-35">
+        <a href="http://localhost:8000" class="txt2" id="IDSignup">Back to home page<i class="fa fa-home" aria-hidden="true" id="IDIcon"></i></a>
+       </div>
+	  </form>
+	 </div>
+   </div>
+  </div>
+  <div id="dropDownSelect1"></div>
+  <script src="{% static 'jquery/jquery-3.2.1.min.js' %}"></script>
+  <script src="{% static 'animsition/js/animsition.min.js' %}"></script>
+  <script src="{% static 'js/bootstrap/js/popper.js' %}"></script>
+  <script src="{% static 'js/bootstrap/js/bootstrap.min.js' %}"></script>
+  <script src="{% static 'select/select.min.js' %}"></script>
+  <script src="{% static 'daterangepicker/moment.min.js' %}"></script>
+  <script src="{% static 'daterangepicker/daterangepicker.js' %}"></script>
+  <script src="{% static 'countdowntime/countdowntime.js' %}"></script>
+  <script src="{% static 'js/script4.js' %}"></script>
+ </body>
+</html>
+
+
+
+
