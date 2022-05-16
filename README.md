@@ -44,4 +44,4 @@ $python manage.py runserver
 - Log out from your JIRA account
 - Log in to user account again and access to your JIRA issues list directly     
 ## Acknowledgments
-Many thanks to Mr. [Vadim Axelrod](https://github.com/vadim1) for giving me the chance to handle your project from scratch, I really feel joyful that your trust in me has come up with a good result. This project was a fruitful collaboration and an opportunity to deal with new issues and gain more experience, I enjoyed working with you [Vadim](https://github.com/vadim1) and I also look forward to collaborating with you in the future.
+Many thanks to Mr. [Vadim Axelrod](https://github.com/vadim1) for giving me the chance to handle this project from scratch, I really feel joyful that his trust in me has come up with a good result. This project was a fruitful collaboration and an opportunity to deal with new issues and gain more experience, I enjoyed working with you [Vadim](https://github.com/vadim1) and I also look forward to collaborating with you in the future.
