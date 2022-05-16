@@ -1,0 +1,30 @@
+/*!
+ * @author : Hamza Taous
+ * @github username : hamzat97
+ * @link https://github.com/hamzat97/DYRT
+ */
+
+#IDFormTitle {
+  font-family: 'Comic Sans';  
+  color: black;
+}
+
+#IDLabel {
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+#IDMsg {
+  color: #7f7f7f;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+}
+
+#IDSignup {
+  padding-bottom: 20px;
+}
+
+#IDIcon {
+  font-size: 17px;
+  padding-left: 6px;
+}
