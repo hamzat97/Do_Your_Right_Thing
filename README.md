@@ -33,5 +33,10 @@ $python manage.py runserver
 ```
 - Create your user account ([click here](http://localhost:8000/signup))
 - Check your Gmail inbox and click on the activation link
-3. Log in to your account ([click here](http://localhost:8000/signin))
+- Log in to your user account ([click here](http://localhost:8000/signin))
+- Connect to JIRA Cloud using JIRA REST APIs
+- Pull list of JIRA issues reported by you and assigned to you
+- Access to your JIRA account where your JIRA issues list should be displayed 
+- Log out from your JIRA account
+- Log in to user account again and access to your JIRA issues list directly     
 ## Acknowledgments
