@@ -5,7 +5,7 @@ We all know you and your team work on multiple tasks every day! Can you imagine 
 
 <p align="center"><img src="https://github.com/hamzat97/Do_Your_Right_Thing/blob/main/Iae.gif"></p>
 
-Exactly Jimmy,
+Exactly Jimmy 🙆‍♀️😂
 
 DYRT web application is a great JIRA project management tool that allows users to pull their JIRA issues lists in real time using JIRA REST APIs. The aim behind it is to    
 ## Tech Tools
