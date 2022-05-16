@@ -5,7 +5,7 @@ We all know you and your team work on multiple tasks every day! Can you imagine 
 
 <p align="center"><img src="https://github.com/hamzat97/Do_Your_Right_Thing/blob/main/Jimmy.gif"></p>
 
-Exactly Jimmy 😄, but no worries cause there is a set of good project management tools and DYRT is one of them. It's a JIRA project management tool that allows users to pull their JIRA issues lists in real time using JIRA REST APIs. The main goal behind it is to make the work organized, avoid distractions, communicate well, update everyone immediately and strengthen collaboration and mutual support between team members.   
+Exactly Jimmy 😄, but no worries cause there is a set of good project management tools and DYRT is one of them. It's a JIRA project management tool that allows users to pull their JIRA issues lists in real time using JIRA REST APIs. The main goal behind it is to make the work organized, avoid distractions, prioritize tasks, communicate well, update everyone immediately and strengthen collaboration and mutual support between team members.   
 ## Tech Tools
 - Python
 - Django
